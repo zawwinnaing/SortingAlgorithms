@@ -1,0 +1,5 @@
+C:\Users\ZAW WIN NAING\Desktop\MicrosoftPractise\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\ZAW WIN NAING\Desktop\MicrosoftPractise\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\ZAW WIN NAING\Desktop\MicrosoftPractise\ConsoleApplication\obj\x86\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\ZAW WIN NAING\Desktop\MicrosoftPractise\ConsoleApplication\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\ZAW WIN NAING\Desktop\MicrosoftPractise\ConsoleApplication\obj\x86\Debug\ConsoleApplication.pdb
